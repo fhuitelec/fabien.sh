@@ -1,2 +1,5 @@
 secretsprovider: gcpkms://projects/fabien-sh-pulumi/locations/global/keyRings/pulumi/cryptoKeys/secrets
 encryptedkey: CiQABF63TiPMtReBKxGQ8HjpXrtLUi/IIQu81E3NwBHb0EfBQkgSSQAaDax6pOG5sEiVrSWY8TsA7FdMVu9EU8te+E+LM+E+C+I+oEYxYEMeTn+1Ock+ql9Db5gD8FuN/G8sz9LJU83Nh/2i0ls/dU4=
+config:
+  cloudflare:apiToken:
+    secure: v1:BMwYeji3XTp7AzO6:vwuISR/KgoD/wkP3keQeuZvywUFCRqhLnk3x6lnpLZgD5BVv0SVaaGE1IZ4cHYrj/OsG6ireOSU=
