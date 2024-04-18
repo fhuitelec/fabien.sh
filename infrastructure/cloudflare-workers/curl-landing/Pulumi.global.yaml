@@ -1,0 +1,2 @@
+secretsprovider: gcpkms://projects/fabien-sh-pulumi/locations/global/keyRings/pulumi/cryptoKeys/secrets
+encryptedkey: CiQABF63TiPMtReBKxGQ8HjpXrtLUi/IIQu81E3NwBHb0EfBQkgSSQAaDax6pOG5sEiVrSWY8TsA7FdMVu9EU8te+E+LM+E+C+I+oEYxYEMeTn+1Ock+ql9Db5gD8FuN/G8sz9LJU83Nh/2i0ls/dU4=

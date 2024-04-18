@@ -1,0 +1,7 @@
+name: cloudflare-workers-curl-landing
+runtime: nodejs
+description: Cloudflare worker that proxies fabien.sh traffic for curl specific responses
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: typescript
