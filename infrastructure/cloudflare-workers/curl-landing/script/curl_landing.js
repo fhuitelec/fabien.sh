@@ -21,7 +21,14 @@ export default {
         },
         {
           status: 203,
-          statusText: 'Non-Authoritative Information'
+          statusText: 'Non-Authoritative Information',
+          headers: {
+            'X-Clacks-Overhead': 'GNU Terry Pratchett',
+            'X-Powered-By': 'Unicorns',
+            'X-Human': 'Hey there! Nice to see some people trying curl-ing me!',
+            'X-LinkedIn': 'linkedin.com/in/fhuitelec',
+            'X-Email': 'hey@fabien.sh',
+          }
         });
     }
 
