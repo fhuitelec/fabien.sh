@@ -14,10 +14,9 @@ export default {
     if (isCurlUserAgent(request)) {
       return Response.json(
         {
-          roles: ['cloud-engineer', 'platform-engineer', 'sre'],
-          status: 'freelance',
-          available: true,
-          topics: ['dev', 'infrastructure', 'platform']
+          engineering: ['cloud', 'platform', 'reliability'],
+          job: 'industrialize tech infrastructure',
+          topics: ['craftsmanship', 'infra', 'security']
         },
         {
           status: 203,
